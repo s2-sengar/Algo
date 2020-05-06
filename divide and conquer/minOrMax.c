@@ -23,3 +23,5 @@ int Max(int arr[],int l,int h){
     }
     return max;
 }
+/* in this code we have used Mergesort kind of logic to find Min/Max Value in a given set of array
+   with a Time complexity O(log n)*/
